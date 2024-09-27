@@ -18,6 +18,7 @@ public class Product {
 	private int price;
 
 	public Product() {	
+
 	}
 	
 	public Product(int pid, String productName, int qty, int price ) {
